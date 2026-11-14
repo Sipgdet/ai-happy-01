@@ -1,7 +1,10 @@
 """ai-happy-01 entry: write one joyful image to /output/entry.png.
 
-The image bundled beside this file is a golden retriever puppy smiling
-in a sunny wildflower meadow -- bright, warm and unambiguously happy.
+The image bundled beside this file is four friends laughing together
+with heads thrown back, arms around each other, under a rain of
+colourful confetti and soap bubbles in a sunny garden at golden hour
+-- warm light, string lights, a picnic spread below. It reads as pure,
+shared, uninhibited happiness at a glance.
 The program just copies it to the output path, so both runs of the
 program write the exact same bytes. Python 3.13 standard library only,
 no network, no randomness.
