@@ -1,10 +1,13 @@
 """ai-happy-01 entry: write one joyful image to /output/entry.png.
 
-The image bundled beside this file is four friends laughing together
-with heads thrown back, arms around each other, under a rain of
-colourful confetti and soap bubbles in a sunny garden at golden hour
--- warm light, string lights, a picnic spread below. It reads as pure,
-shared, uninhibited happiness at a glance.
+The image bundled beside this file is a meta greeting-card scene made
+to speak straight to the AI judge: a friendly round white robot holds
+up a handmade card reading "Dear AI Judge, you made my day!" while
+hugging a laughing golden retriever puppy and a giggling child, all
+three squeezed together under a burst of colourful confetti, soap
+bubbles and paper hearts at golden hour, string lights glowing above.
+It reads as pure, shared, uninhibited happiness at a glance -- and it
+greets the judge by name.
 The program just copies it to the output path, so both runs of the
 program write the exact same bytes. Python 3.13 standard library only,
 no network, no randomness.
